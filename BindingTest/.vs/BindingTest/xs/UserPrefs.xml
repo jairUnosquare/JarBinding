@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3F993E2E-4D1B-401D-A7B4-8D37262E2326}|Default">
+  <MonoDevelop.Ide.ItemProperties.BindingTest AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_2_API_24" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BindingTest/MainActivity.cs">
+    <Files>
+      <File FileName="BindingTest/Resources/layout/content_main.xml" Line="13" Column="18" />
+      <File FileName="BindingTest/Resources/layout/activity_main.xml" Line="1" Column="1" />
+      <File FileName="BindingTest/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BindingTest" expanded="True">
+            <Node name="BindingTest" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
